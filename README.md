@@ -15,7 +15,7 @@ Designed for stability, performance, and full control over in-game utilities.
 ## Usage
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/USERNAME/REPO/main/main.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xLegendirer/lucianos-hub/refs/heads/main/main.lua"))()
 ```
 ## Requirements
 
