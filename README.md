@@ -20,6 +20,10 @@ Whether you are looking for the primary core engine or specialized utility modul
 
 ---
 
+## 🛠️ Get Support
+
+You can get contact with our support and developer team in our [Luciano's Hub Discord server](https://www.discord.gg/jMk4zkDZXV).
+
 ## 📂 Navigation
 
 We organize our tools by branches to keep the codebase clean and modular. You can switch between these branches to access different versions and utilities:
