@@ -1,38 +1,22 @@
 <div align="center">
 
-# 🌌 Luciano's Hub: Central
+# 🪐 SaturnLH Bot
+**The orbital guardian of Luciano's Hub.**
 
-**Welcome to the official repository for Luciano's Hub.**
-
-[![Main](https://img.shields.io/badge/Branch-Main-green.svg)]()
-[![System](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
-[![Hub](https://img.shields.io/badge/Hub-Overseer-black.svg)]()
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue.svg)]()
+[![Status](https://img.shields.io/badge/Status-Operational-brightgreen.svg)]()
 
 </div>
 
 ---
 
-## 📖 Overview
+## 📖 About SaturnLH
+**SaturnLH** is the official Discord automation bot for the **Luciano's Hub** ecosystem. Designed to handle ticketing, server moderation, and real-time oversight of the Overseer framework, SaturnLH ensures your server remains secure and automated.
 
-**Luciano's Hub** is a modular, high-performance ecosystem designed for advanced Roblox utility and development. This repository serves as the central hub for our various tools and project branches.
-
-Whether you are looking for the primary core engine or specialized utility modules, you can navigate through our branches to find exactly what you need.
-
----
-
-## 📂 Navigation
-
-We organize our tools by branches to keep the codebase clean and modular. You can switch between these branches to access different versions and utilities:
-
-*   **[Overseer Branch](https://github.com/xLegendirer/lucianos-hub/tree/Overseer):** Contains the core hub infrastructure, main UI framework, and primary logic (`overseer.lua`).
-*   **[LHpass Branch](https://github.com/xLegendirer/lucianos-hub/tree/LHpass):** Contains specialized diagnostic tools, signal monitoring, and system utilities.
+## 🛠️ Key Capabilities
+*   **🛡️ Automated Moderation:** Instant protection against unauthorized actions.
+*   **🎫 Ticket Management:** Streamlined support system for Overseer users.
+*   **📡 System Logs:** Real-time integration with Overseer and LHpass modules.
 
 ---
-
-## 🚀 Quick Start
-
-To access the primary Luciano's Hub environment, ensure you are using the core branch:
-
-```lua
--- // Luciano's Hub: Core Overseer Loader \\ --
-WILL PUBLISH LINK SOON
+*For development access, contact the Luciano's Hub core team.*
