@@ -1,44 +1,39 @@
 <div align="center">
-  
-# 👁️ Luciano's Hub: Overseer
 
-**Absolute authority at your fingertips.**
+# 🛠️ LHPASS: System Utility Module [BRANCH: LHPASS]
 
-[![Version](https://img.shields.io/badge/Version-1.0.0--beta-blue.svg)]()
-[![Status](https://img.shields.io/badge/Status-Undetected-success.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-Roblox-red.svg)]()
-[![Developer](https://img.shields.io/badge/Developer-Luciano-black.svg)]()
+**Advanced internal environment diagnostics and signal monitoring.**
+
+[![Module](https://img.shields.io/badge/Module-LHpass-yellow.svg)]()
+[![System](https://img.shields.io/badge/System-Diagnostics-blue.svg)]()
+[![Status](https://img.shields.io/badge/Status-Stable-brightgreen.svg)]()
 
 </div>
 
 ---
 
-## 📖 About The Project
+## 📖 About LHpass
 
-**Luciano's Hub: Overseer** is an advanced, high-performance admin command script and utility hub designed to give you absolute control over your environment. Engineered with optimization and stealth in mind, Overseer bypasses standard limitations to provide a seamless, lag-free experience. 
+**LHPASS** is an essential utility module developed for the **Luciano's Hub** ecosystem. This branch is strictly dedicated to specialized toolkit functions, environment diagnostics, and internal signal monitoring.
 
-Whether you need robust server moderation tools, advanced movement mechanics, or utility scripts to enhance your gameplay, Overseer delivers it all through a sleek, modern UI.
-
----
-
-## ✨ Core Features
-
-*   **🎨 Fluent UI Design:** A beautifully crafted, modern user interface that doesn't clutter your screen. Features draggable windows, smooth animations, and resizable panels.
-*   **⚡ Zero-Delay Execution:** Built from the ground up for maximum optimization. Commands execute instantly with virtually zero frame drops.
-*   **👻 Phantom Stealth Module:** Advanced anti-detection mechanics. Bypasses most standard client-side anti-cheats and hides your execution traces from server logs.
-*   **⌨️ Universal Keybinds:** Fully customizable keybind manager. Bind any command or UI toggle to your preferred keys for split-second reactions.
-*   **🔌 Modular Architecture:** The script is designed to support custom plugins. You can easily add your own Lua functions and integrate them into the Overseer UI.
+Designed for advanced users and developers, this module provides a lightweight, draggable interface to observe system events and interact with custom functions in real-time without the overhead of the main Overseer framework.
 
 ---
 
-## 🚀 Installation & Execution
+## ✨ Features
 
-Executing Overseer is incredibly straightforward. You will need a reliable, high-level executor capable of handling complex Lua environments.
+*   **📊 Real-time Diagnostics:** Monitor active system events and task loops as they occur within your environment.
+*   **⚙️ Rapid Task Execution:** Execute custom functions and localized scripts with a single click.
+*   **📋 Clipboard Integration:** Easily extract and copy debug data, IDs, or internal logs to your clipboard for external analysis.
+*   **📱 Universal UI:** Fully responsive design that works seamlessly on both Desktop and Mobile devices.
+*   **⚡ Optimized Performance:** Built to operate with minimal impact on your frame rate, ensuring a smooth experience.
 
-1. Launch your target game.
-2. Open your executor and attach it to the game client.
-3. Paste the following loadstring into the execution tab and press **Execute**:
+---
+
+## 🛠️ Execution
+
+To run this standalone utility module, use the following loadstring:
 
 ```lua
--- // Luciano's Hub: Overseer - Universal Loader \\ --
-loadstring(game:HttpGet("Will be publish soon."))()
+-- // Luciano's Hub: LHPASS Utility Module \\ --
+loadstring(game:HttpGet("https://github.com/xLegendirer/lucianos-hub/raw/refs/heads/LHpass/LH/lhpass.lua"))()
