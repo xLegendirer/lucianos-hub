@@ -12,7 +12,7 @@
 ---
 
 ## 📖 Executive Summary
-**SaturnLH** functions as the high-availability backend infrastructure for the **Luciano's Hub** digital ecosystem. It serves as the primary gateway between the **Overseer** framework and Discord's API, facilitating secure communication, real-time telemetry ingestion, and autonomous moderation protocols. This platform is engineered to maintain high-integrity operations and seamless synchronization across all Luciano's Hub assets.
+**SaturnLH** functions as the high-availability backend infrastructure for the **Luciano's Hub** digital ecosystem. It serves as the primary gateway between the **Overseer** framework and Discord's API, facilitating secure communication, real-time telemetry ingestion, and autonomous moderation protocols. This platform is engineered to maintain high-integrity operations and seamless synchronization across all Luciano's Hub assets. **-Note: You cannot use the bot on your own servers; it is checked by Server ID.**
 
 ## 🏗️ Architectural Framework
 SaturnLH is structured upon a multi-modular foundation designed for redundancy and performance:
