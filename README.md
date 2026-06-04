@@ -41,4 +41,4 @@ Executing Overseer is incredibly straightforward. You will need a reliable, high
 
 ```lua
 -- // Luciano's Hub: Overseer - Universal Loader \\ --
-loadstring(game:HttpGet("Will be publish soon."))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xLegendirer/lucianos-hub/refs/heads/Overseer/LH/overseer.lua"))()
