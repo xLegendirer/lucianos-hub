@@ -26,7 +26,7 @@ We organize our tools by branches to keep the codebase clean and modular. You ca
 
 *   **[Overseer Branch](https://github.com/xLegendirer/lucianos-hub/tree/Overseer):** Contains the core hub infrastructure, main UI framework, and primary logic (`overseer.lua`).
 *   **[LHpass Branch](https://github.com/xLegendirer/lucianos-hub/tree/LHpass):** Contains specialized diagnostic tools, signal monitoring, and system utilities.
-
+*   **[SaturnLH Branch](https://github.com/xLegendirer/lucianos-hub/tree/SaturnLH):** Discord bot.
 ---
 
 ## 🚀 Quick Start
