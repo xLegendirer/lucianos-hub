@@ -41,4 +41,5 @@ To access the primary Luciano's Hub environment, ensure you are using the core b
 
 ```lua
 -- // Luciano's Hub: Core Overseer Loader \\ --
-WILL PUBLISH LINK SOON
+loadstring(game:HttpGet("[https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua](https://raw.githubusercontent.com/xLegendirer/lucianos-hub/refs/heads/Overseer/LH/overseer.lua)", true))()
+ 
